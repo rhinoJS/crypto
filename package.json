@@ -1,0 +1,23 @@
+{
+    "name": "@rhinojs/crypto",
+    "version": "0.1.20",
+    "license": "MIT",
+    "author": "Bruno Goncalves",
+    "private": false,
+    "keywords": [
+        "rhinojs",
+        "framework",
+        "crypto",
+        "sha256",
+        "hmacSHA512",
+        "aes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rhinoJS/orm.git"
+    },
+    "main": "./src/index.js",
+    "dependencies": {
+        "crypto-js": "^4.0.0"
+    }
+}
