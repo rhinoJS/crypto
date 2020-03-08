@@ -1,3 +1,3 @@
 module.exports = {
-    //Model    : require('./Model')
+    Crypto : require('./Crypto')
 };

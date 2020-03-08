@@ -30,3 +30,5 @@ class Crypto
         return CryptoJS.AES.decrypt(message, key).toString(CryptoJS.enc.Utf8);
     }
 }
+
+module.exports = Crypto;
